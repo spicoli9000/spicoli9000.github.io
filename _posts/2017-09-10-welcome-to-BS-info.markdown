@@ -2,7 +2,7 @@
 layout: default
 title:  "Welcome to bs9000!"
 date:   2017-09-10 00:34:30 -0500
-categories: jekyll update
+categories: BS Intro
 ---
 
 Coming .... all your BS and more.....

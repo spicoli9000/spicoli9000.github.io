@@ -5,8 +5,8 @@
     <description>If it isn't BS it isn't News...</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 11 Sep 2017 14:52:05 -0400</pubDate>
-    <lastBuildDate>Mon, 11 Sep 2017 14:52:05 -0400</lastBuildDate>
+    <pubDate>Mon, 11 Sep 2017 15:36:32 -0400</pubDate>
+    <lastBuildDate>Mon, 11 Sep 2017 15:36:32 -0400</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
     
       <item>
@@ -17,13 +17,13 @@
 
 </description>
         <pubDate>Sun, 10 Sep 2017 01:34:30 -0400</pubDate>
-        <link>http://localhost:4000/jekyll/update/2017/09/10/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/09/10/welcome-to-jekyll.html</guid>
+        <link>http://localhost:4000/bs/intro/2017/09/10/welcome-to-BS-info.html</link>
+        <guid isPermaLink="true">http://localhost:4000/bs/intro/2017/09/10/welcome-to-BS-info.html</guid>
         
         
-        <category>jekyll</category>
+        <category>BS</category>
         
-        <category>update</category>
+        <category>Intro</category>
         
       </item>
     
